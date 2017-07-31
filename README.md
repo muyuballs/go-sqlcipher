@@ -24,7 +24,7 @@ However, if you install _go-sqlcipher_ with `go install github.com/muyuballs/go-
 Documentation
 -------------
 
-API documentation can be found here: http://godoc.org/github.com/xeodou/go-sqlcipher
+API documentation can be found here: http://godoc.org/github.com/mattn/go-sqlite3
 
 Examples can be found under the `./_example` directory
 
